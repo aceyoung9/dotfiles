@@ -32,3 +32,6 @@
   prune = true
 [include]
   path = ~/.gitconfig.local
+[user]
+	name = Alice Young
+	email = aliceyoung.9@gmail.com
