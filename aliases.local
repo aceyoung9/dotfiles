@@ -1,0 +1,2 @@
+alias backupLR="rsync -asP --update /media/alice/Puppy/Users/Gyarados/Pictures/Epsi\ LR\ Archive /media/alice/bigpassport && rsync -asP --update /media/alice/Puppy/Users/Gyarados/Pictures/Lightroom /media/alice/bigpassport
+"
