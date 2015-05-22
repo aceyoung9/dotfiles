@@ -1,0 +1,2 @@
+alias backupLR="rsync -asP --update ~/Pictures/butterfree2-Negatives
+/Volumes/FAT32 && rsync -asP --update ~/Pictures/butterfree2 /Volumes/FAT32"
