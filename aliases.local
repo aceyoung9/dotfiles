@@ -1,0 +1,3 @@
+alias backupLR="rsync -asP --update /Volumes/1TB-Storage/Lightroom-Onix/
+/Volumes/FAT32/Lightroom-Onix && rsync -asP --update ~/Pictures/Lightroom
+/Volumes/FAT32/onixLR-Libraries"
