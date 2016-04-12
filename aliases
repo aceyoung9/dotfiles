@@ -15,5 +15,8 @@ alias s="rspec"
 # Pretty print the path
 alias path='echo $PATH | tr -s ":" "\n"'
 
+# WEATHER IS HAPPENING
+alias weather="curl -4 wttr.in/Boston"
+
 # Include custom aliases
 [[ -f ~/.aliases.local ]] && source ~/.aliases.local
